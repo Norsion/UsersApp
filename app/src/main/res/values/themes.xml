@@ -1,0 +1,23 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorPrimary</item>
+        <item name="colorOnSurface">@color/black</item>
+        <item name="android:actionMenuTextAppearance">@style/ToolbarMenuItems</item>
+        <item name="android:letterSpacing">-0.01</item>
+        <item name="android:textSize">@dimen/font_16</item>
+    </style>
+
+    <style name="ToolbarMenuItems">
+        <item name="android:textAllCaps">false</item>
+        <item name="android:textSize">@dimen/font_16</item>
+    </style>
+
+    <style name="AppTheme.ActionBar" parent="AppTheme">
+        <item name="actionMenuTextColor">@color/colorPrimary</item>
+    </style>
+
+</resources>

@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.hannesdorfmann:adapterdelegates4-pagination:4.3.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2232b2004320d5b6f248811d61f15ddf/jetified-adapterdelegates4-pagination-4.3.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2232b2004320d5b6f248811d61f15ddf/jetified-adapterdelegates4-pagination-4.3.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/2232b2004320d5b6f248811d61f15ddf/jetified-adapterdelegates4-pagination-4.3.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.hannesdorfmann/adapterdelegates4-pagination/4.3.0/e4833df5ccb73872337ea555aaa3a2df4be2fa25/adapterdelegates4-pagination-4.3.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.hannesdorfmann/adapterdelegates4-pagination/4.3.0/eb334ced38056ab99b1592edad19e4c4044c4de6/adapterdelegates4-pagination-4.3.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

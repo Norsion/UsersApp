@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">app_test</string>
+    <string name="user_fragment_title">Пользователи</string>
+</resources>
